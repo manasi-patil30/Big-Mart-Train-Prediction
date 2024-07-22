@@ -1,4 +1,4 @@
-# Big-Mart-Sale-Prediction
+# Big-Mart-Train-Prediction
 
 Big Mart Sales Prediction Using Machine Learning
 
